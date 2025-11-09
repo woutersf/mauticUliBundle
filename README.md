@@ -1,14 +1,15 @@
-# Mautic Unique Login Links (ULI) Plugin
+# Mautic Unique Login Links (ULI) Bundle
 
 This plugin provides the ability to generate secure one-time login links for Mautic users via console command.
 
 ## Features
 
-- Generate secure one-time login links via CLI command
-- Links expire automatically after 24 hours
-- Used links are automatically deleted
-- Comprehensive logging for security auditing
-- Access denied page for invalid/expired links
+- 🔐 **Secure One-Time Links**: Generate cryptographically secure login URLs
+- ⏰ **Auto-Expiration**: Links expire after 24 hours (configurable)
+- 🗑️ **Auto-Cleanup**: Used links are automatically deleted
+- 📋 **Comprehensive Logging**: All login attempts logged for security auditing
+- 🛡️ **Security Built-in**: Protection against replay attacks and expired tokens
+- 💻 **CLI-Based**: Easy integration with automation and scripts
 
 ## Usage
 
