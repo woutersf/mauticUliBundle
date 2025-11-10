@@ -3,10 +3,11 @@
 declare(strict_types=1);
 
 return [
-    'name'        => 'Unique Login Links (ULI)',
+    'name'        => 'ULI: Unique Login Links via the console.',
     'description' => 'Generate secure one-time login links for users via command line',
     'version'     => '1.0.0',
-    'author'      => 'Mautic Community',
+    'author'      => 'Frederik Wouters',
+    'icon'        => 'plugins/MauticUliBundle/Assets/img/uli-icon.png',
 
     'routes' => [
         'main'   => [],
