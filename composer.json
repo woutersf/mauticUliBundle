@@ -1,5 +1,5 @@
 {
-    "name": "mautic/uli-bundle",
+    "name": "woutersf/uli-bundle",
     "description": "Generate secure one-time login links for Mautic users via command line",
     "type": "mautic-plugin",
     "license": "GPL-3.0-or-later",
