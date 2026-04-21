@@ -25,7 +25,7 @@
     ],
     "require": {
         "php": "^7.4|^8.0",
-        "mautic/core": "^4.0|^5.0"
+        "mautic/core": "^4|^5"
     },
     "autoload": {
         "psr-4": {
